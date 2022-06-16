@@ -18,7 +18,7 @@ Python 3+ installation with the following additional packages:
 * Pandas
 
 ## Running
-The Jupyter Notebook `model_run.ipynb` and the dataset files `friendster_community1_trimmed.edgelist` and `lesmis.edgelist` contain everything needed to run the experiments in the papers. The Notebook file also ontains implementations of popular random walk techniques for comparing with our technique.
+The Jupyter Notebook `model_run.ipynb` and the dataset files `friendster_community1_trimmed.edgelist` and `lesmis.edgelist` contain everything needed to run the experiments in the papers. The Notebook file also contains implementations of popular random walk techniques for comparing with our technique.
 
 ## Data
 We have collected data from Friendster online social network and the edgelist of one of the largest connected component is shared with this repo. We have also shared the edgelist of the Les Miserables network.
