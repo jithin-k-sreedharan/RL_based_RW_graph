@@ -1,7 +1,7 @@
 # Reinforcemnt Learning based Random Walks on Graphs
 
-This repository provides the implementation of random walk based graph exploration and estimation techniques proposed in the paper (and some commonly used sampling algorithms): \
-[Revisiting Random Walk based Sampling in Networks: Evasion of Burn-in Period and Frequent Regenerations](https://computationalsocialnetworks.springeropen.com/track/pdf/10.1186/s40649-018-0051-0?site=computationalsocialnetworks.springeropen.com) \
+This repository provides the implementation of random walk based graph exploration and estimation techniques proposed in the paper (and some commonly used sampling algorithms):
+> [Revisiting Random Walk based Sampling in Networks: Evasion of Burn-in Period and Frequent Regenerations](https://computationalsocialnetworks.springeropen.com/track/pdf/10.1186/s40649-018-0051-0?site=computationalsocialnetworks.springeropen.com) \
 (_alphabetical order_) Konstantin Avrachenkov, Vivek S. Borkar, Arun Kadavankandy, and Jithin K. Sreedharan\
 _Computational Social Networks, Springer, 2018_
 
